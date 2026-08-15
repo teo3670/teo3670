@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teo3670&label=Profile%20views&color=0e75b6&style=flat" alt="teo3670" /> </p>
 
-- 🌱 I’m currently learning **Java, SQL and many more!**
+- 🌱 I’m currently learning **Java!**
 
 - 📫 How to reach me **theodoredraht@gmail.com**
 
