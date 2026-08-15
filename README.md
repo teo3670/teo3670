@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm Theodoros Drachtidis</h1>
+<h1 align="center">Hi, I'm Theodoros Drachtidis</h1>
 <h3 align="center">Management Science & Technology student at AUEB — building small products, exploring startups, and doing research on the side</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=teo3670&label=Profile%20views&color=0e75b6&style=flat" alt="teo3670" />
 </p>
 
-### 🎓 About me
+###  About me
 
-- 📚 Studying at the **Department of Management Science & Technology (MST), Athens University of Economics and Business (AUEB)**
-- 🎨 Previously freelanced as a **sports designer on Fiverr** (2022–2024)
-- 📊 Run **[@hellenic_infographics](https://instagram.com/hellenic_infographics)**, an Instagram page focused on data visualizations
-- 🌱 Currently learning **some Programming Languages**
-- ⚡ Fun fact: **I can name every capital city in the world!**
-- 📫 How to reach me: **theodoredraht@gmail.com**
+- Studying at the **Department of Management Science & Technology (MST), Athens University of Economics and Business (AUEB)**
+- Previously freelanced as a **sports designer on Fiverr** (2022–2024)
+- Run **[@hellenic_infographics](https://instagram.com/hellenic_infographics)**, an Instagram page focused on data visualizations
+- Currently learning **some Programming Languages**
+- Fun fact: **I can name every capital city in the world!**
+- How to reach me: **theodoredraht@gmail.com**
 
 ### 🛠️ What I'm building
 
-- 🕊️ **Starling** — a grief-processing app that turns vocalized grief into generative nature soundscapes (no transcription, no chatbot, no stored audio)
-- 🖥️ Personal **portfolio site** showcasing my academic work and design projects
+- **Starling** — a grief-processing app that turns vocalized grief into generative nature soundscapes (no transcription, no chatbot, no stored audio)
+- Personal **portfolio site** showcasing my academic work and design projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
