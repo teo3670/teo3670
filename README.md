@@ -17,7 +17,7 @@
 ### 🛠️ What I'm building
 
 - **Starling** — a grief-processing app that turns vocalized grief into generative nature soundscapes (no transcription, no chatbot, no stored audio)
-- Personal **portfolio site** showcasing my academic work and design projects
+- Personal **portfolio site** showcasing my academic work and design projects https://teo3670.github.io
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
