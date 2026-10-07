@@ -9,8 +9,6 @@
 
 - Studying at the **Department of Management Science & Technology (MST), Athens University of Economics and Business (AUEB)**
 - Run **[@hellenic_infographics](https://instagram.com/hellenic_infographics)**, an Instagram page focused on data visualization
-- Currently learning **some Programming Languages**
-- Fun fact: **I can name every capital city in the world!**
 - How to reach me: **theodoredraht@gmail.com**
 
 ### 🛠️ What I'm building
