@@ -11,8 +11,9 @@
 - Run **[@hellenic_infographics](https://instagram.com/hellenic_infographics)**, an Instagram page focused on data visualization
 - How to reach me: **theodoredraht@gmail.com**
 
-### 🛠️ What I'm building
+### Building
 
+- **FinanceSim** - A mobile macroeconomy simulator game! 
 - **HoopMatch** — A matchmaking app for basketball pickup games!
 - Personal **portfolio site** showcasing my academic work and design projects https://teo3670.github.io (not updated yet)
 
