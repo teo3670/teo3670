@@ -13,7 +13,7 @@
 
 ### Building
 
-- **FinanceSim** - A mobile macroeconomy simulator game! 
+- **FinanceSim** - A mobile macroeconomy simulator game! https://play.google.com/store/apps/details?id=com.financesim.game
 - **HoopMatch** — A matchmaking app for basketball pickup games!
 - Personal **portfolio site** showcasing my academic work and design projects https://teo3670.github.io (not updated yet)
 
