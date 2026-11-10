@@ -9,13 +9,11 @@
 
 - Studying at the **Department of Management Science & Technology (MST), Athens University of Economics and Business (AUEB)**
 - Run **[@hellenic_infographics](https://instagram.com/hellenic_infographics)**, an Instagram page focused on data visualization
+- **PresidentSim** - A mobile president simulator game! https://play.google.com/store/apps/details?id=com.financesim.game
 - How to reach me: **theodoredraht@gmail.com**
 
-### Building
-
-- **FinanceSim** - A mobile macroeconomy simulator game! https://play.google.com/store/apps/details?id=com.financesim.game
-- **HoopMatch** — A matchmaking app for basketball pickup games!
-- Personal **portfolio site** showcasing my academic work and design projects https://teo3670.github.io (not updated yet)
+### Portfolio
+ https://teo3670.github.io/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
